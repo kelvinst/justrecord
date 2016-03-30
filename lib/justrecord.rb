@@ -1,5 +1,5 @@
-require "justrecord/version"
+require "just_record/version"
 
-module Justrecord
+module JustRecord
   # Your code goes here...
 end
